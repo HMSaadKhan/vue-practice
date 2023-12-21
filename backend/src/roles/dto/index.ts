@@ -1,0 +1,1 @@
+export { default as CreateRoleDto } from './create-role.dto'

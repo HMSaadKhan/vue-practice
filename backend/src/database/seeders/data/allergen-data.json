@@ -1,0 +1,47 @@
+[
+    {
+      "allergy_name": "Egg",
+      "status": true
+    },
+    {
+      "allergy_name": "Milk",
+      "status": true
+    },
+    {
+      "allergy_name": "Celery",
+      "status": true
+    },
+    {
+      "allergy_name": "Crustaceans",
+      "status": true
+    },
+    {
+      "allergy_name": "Eggs",
+      "status": true
+    },
+    {
+      "allergy_name": "Fish",
+      "status": true
+    },
+    {
+      "allergy_name": "Gluten",
+      "status": true
+    },
+    {
+      "allergy_name": "Lupin",
+      "status": true
+    },
+    {
+      "allergy_name": "Molluscs",
+      "status": true
+    },
+    {
+      "allergy_name": "Mustard",
+      "status": true
+    },
+    {
+      "allergy_name": "Peanuts",
+      "status": true
+    }
+  ]
+  

@@ -1,0 +1,34 @@
+[
+    {
+        "key_name": "Gluten Free",
+        "status": true
+    },
+    {
+        "key_name": "Vegan",
+        "status": true
+    },
+    {
+        "key_name": "High Protein",
+        "status": true
+    },
+    {
+        "key_name": "Low Salt",
+        "status": true
+    },
+    {
+        "key_name": "Low Carb",
+        "status": true
+    },
+    {
+        "key_name": "Dairy Free",
+        "status": true
+    },
+    {
+        "key_name": "Soy Free",
+        "status": true
+    },
+    {
+        "key_name": "Low Sugar",
+        "status": true
+    }
+]

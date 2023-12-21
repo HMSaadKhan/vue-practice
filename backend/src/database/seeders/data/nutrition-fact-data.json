@@ -1,0 +1,70 @@
+[
+    {
+        "nutrition_name": "Calories",
+        "unit": "g"
+    },
+    {
+        "nutrition_name": "Protein",
+        "unit": "mcg"
+    },
+    {
+        "nutrition_name": "Carbohydrates",
+        "unit": "g"
+    },
+    {
+        "nutrition_name": "Energy",
+        "unit": "g"
+    },
+    {
+        "nutrition_name": "Dietary_Fiber",
+        "unit": "g"
+    },
+    {
+        "nutrition_name": "Total_Sugar",
+        "unit": "g"
+    },
+    {
+        "nutrition_name": "Includes_Added_Sugars",
+        "unit": "g"
+    },
+    {
+        "nutrition_name": "Total_Fat",
+        "unit": "g"
+    },
+    {
+        "nutrition_name": "Saturated_Fat",
+        "unit": "g"
+    },
+    {
+        "nutrition_name": "Salt",
+        "unit": "mg"
+    },
+    {
+        "nutrition_name": "Sodium",
+        "unit": "mg"
+    },
+    {
+        "nutrition_name": "Cholesterol",
+        "unit": "mg"
+    },
+    {
+        "nutrition_name": "Potassium",
+        "unit": "mg"
+    },
+    {
+        "nutrition_name": "Iron",
+        "unit": "mg"
+    },
+    {
+        "nutrition_name": "Calcium",
+        "unit": "mg"
+    },
+    {
+        "nutrition_name": "Vitamin_D",
+        "unit": "mcg"
+    },
+    {
+        "nutrition_name": "Trans_Fat",
+        "unit": "g"
+    }
+]

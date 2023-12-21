@@ -1,0 +1,22 @@
+[
+    {
+      "username": "Admin",
+      "email": "admin@outlook.com",
+      "phoneNo": "021246546576",
+      "password": "12345678",
+      "status": true,
+      "resetToken": null,
+      "resetTokenExpiration": null,
+      "role_id":1
+    },
+    {
+      "username": "Chef Admin",
+      "email": "chef@deverx.com",
+      "phoneNo": "021987654321",
+      "password": "12345678",
+      "status": true,
+      "resetToken": null,
+      "resetTokenExpiration": null,
+      "role_id": 2
+    }
+  ]

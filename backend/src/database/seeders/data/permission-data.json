@@ -1,0 +1,74 @@
+[
+    {
+        "permission": "user-list"
+    },
+    {
+        "permission": "user-add"
+    },
+    {
+        "permission": "user-edit"
+    },
+    {
+        "permission": "user-delete"
+    },
+    {
+        "permission": "role-list"
+    },
+    {
+        "permission": "role-add"
+    },
+    {
+        "permission": "role-delete"
+    },
+    {
+        "permission": "role-permissions"
+    },
+    {
+        "permission": "subscription-list"
+    },
+    {
+        "permission": "subscription-add"
+    },
+    {
+        "permission": "subscription-edit"
+    },
+    {
+        "permission": "subscription-delete"
+    },
+    {
+        "permission": "author-list"
+    },
+    {
+        "permission": "author-add"
+    },
+    {
+        "permission": "author-edit"
+    },
+    {
+        "permission": "author-delete"
+    },
+    {
+        "permission": "reader-list"
+    },
+    {
+        "permission": "reader-add"
+    },
+    {
+        "permission": "reader-edit"
+    },
+    {
+        "permission": "reader-delete"
+    },
+    {
+        "permission": "issue-list"
+    },
+    {
+        "permission": "enquirey-list"
+    },
+    {
+        "permission": "demo-request-list"
+    },
+    {
+        "permission": "daily-report-list"
+    }
+]

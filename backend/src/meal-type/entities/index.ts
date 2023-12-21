@@ -1,0 +1,1 @@
+export { default as MealType } from './meal-type.entity';

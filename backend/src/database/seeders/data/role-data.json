@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Admin",
+      "permissions": []
+    },
+    {
+      "role": "Chef",
+      "permissions": []
+    }
+  ]
